@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQEiQ7Hov-jzaw/profile-displaybackgroundimage-shrink_350_1400/0/1715716980168?e=1723680000&v=beta&t=UUzOsVoCi_qLpPym6a1Sy7-A7SzHGDp190zk9c0v3x0)]
 <h1 align="center">Greetings!</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
