@@ -1,7 +1,7 @@
 <h1 align="center">Greetings!</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img align="right" alt="Coding" width="400" border-radius="40px" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
+<img align="right" alt="Coding" width="400" border-radius="40px" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" style="border-radius: 50px;">
 
 
 
